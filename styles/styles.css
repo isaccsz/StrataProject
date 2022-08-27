@@ -234,3 +234,21 @@ form{
 .titles{
     margin: 40px 0;
 }
+
+blockquote{
+    border-left: 6px solid #ccc;
+    padding: 30px;
+    width: 40%;
+    font-size: 16px;
+}
+
+pre{
+    padding-top: 10px;
+    background-color: #f7f7f7;
+    border: 1px solid #d8d8d8;
+}
+
+#citacao h1{
+    margin: 40px 0;
+    font-size: 20px;
+}
