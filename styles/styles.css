@@ -252,3 +252,22 @@ pre{
     margin: 40px 0;
     font-size: 20px;
 }
+
+#listas h1{
+    font-size: 20px;
+    margin: 50px 0 40px 0;
+}
+
+.list_div h2{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.list_div{
+    width: 40%;
+    list-style: inside;
+    height: 160px;
+}
+ul, ol{
+    line-height: 25px   ;
+}
