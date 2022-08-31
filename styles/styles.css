@@ -326,3 +326,37 @@ ul, ol{
     border: 1px solid #cccccc;
     border-radius: 5px;
 }
+
+#botao_verde_doisP{
+    background-color: #49bf9d;
+    border: none;
+    width: 20%;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+}
+
+#botao_transparente_doisP{
+    border: 1px solid #cccccc;
+    width: 20%;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 10px;
+}
+
+#botao_verde_doisM{
+    height: 25px;
+    background-color: #49bf9d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 10px;
+}
+
+#botao_transparente_doisM{
+    height: 25px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    font-size: 10px;
+}
