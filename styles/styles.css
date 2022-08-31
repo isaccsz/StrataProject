@@ -271,3 +271,58 @@ pre{
 ul, ol{
     line-height: 25px   ;
 }
+
+#actions h1{
+    margin: 25px 0;
+}
+
+#botao_pg{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+#botao_p{
+    width: 49%;
+}
+
+#botao_g{
+    width: 49%;
+}
+
+#botao_g button{
+    display: block;
+    width: 100%;
+}
+
+#botao_verde_p{
+    background-color: #49bf9d;
+    border: none;
+    width: 25%;
+    height: 50px;
+    border-radius: 5px;
+    color: white;
+}
+
+#botao_transparente_p{
+    border: 1px solid #cccccc;
+    width: 25%;
+    height: 50px;
+    border-radius: 5px;
+}
+
+#botao_verde_g{
+    height: 35px;
+    background-color: #49bf9d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+#botao_transparente_g{
+    height: 35px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
