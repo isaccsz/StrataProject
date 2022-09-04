@@ -76,7 +76,7 @@
                     <p>Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.</p>
                     <div class="container">
                         <form action="#" method="post">
-                            <fieldset>
+                            <fieldset id="campo_1">
 
                                 <div class="flexy">
                                     <div class="lateral">
@@ -302,6 +302,50 @@
                 </div>
 
                 <button type="submit" class="grandeVerde">Mandar</button>
+            </section>
+
+            <section id="forms">
+                <form action="#" method="get">
+                    <fieldset id="campo_2">
+                        <label for="name">Nome</label>
+                        <input type="text" name="name" id="name">
+
+                        <label for="email">E-mail</label>
+                        <input type="email" name="e_mail" id="e_mail">
+
+                        <select name="selecione" id="selecione">
+                            <option value="Selecione">Selecione...</option>
+                        </select>
+
+                        <label for="low">
+                            <input type="radio" name="mark" id="low" value="low">
+                            <p>Baixa Prioridade</p>
+                        </label>
+
+                        <label for="medium">
+                            <input type="radio" name="mark" id="medium" value="medium">
+                            <p>Media Prioridade</p>
+                        </label>
+                        
+                        <label for="high">
+                            <input type="radio" name="mark" id="high" value="high">
+                            <p>Alta Prioridade</p>
+                        </label>
+                        
+                        <div id="checkBoxes">
+                            <input type="checkbox" name="sendCopy" id="sendCopy">
+                            <p>Me mande uma Cópia</p>
+                        </div>
+
+                        <div id="checkBoxes">
+                            <input type="checkbox" name="human" id="human">
+                            <p>Sou Humano</p>
+                        </div>
+
+                        <label for="mensagens">Mensagem</label>
+                        <textarea name="mensagens" id="mensagens" cols="30" rows="10"></textarea>
+                    </fieldset>
+                </form>
             </section>
 
         </article>
