@@ -383,3 +383,13 @@ thead{
     line-height: 40px;
     background-color: rgb(207, 207, 207);
 }
+
+#tables h1{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#tables h2{
+    font-size: 15px;
+    margin: 35px 0;
+}
