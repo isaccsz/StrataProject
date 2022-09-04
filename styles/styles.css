@@ -360,3 +360,26 @@ ul, ol{
     border-radius: 5px;
     font-size: 10px;
 }
+
+table{
+    margin: 0 auto;
+    border-bottom: 1px solid black;
+    border-collapse:collapse;
+    width: 95%;
+    text-align: left;
+}
+
+thead{
+    background-color: #999;
+    border-bottom: 1px solid black;
+    line-height: 40px;
+}
+
+.linha{
+    line-height: 40px;
+    background-color: rgb(227, 227, 227);
+}
+.linhaAlt{
+    line-height: 40px;
+    background-color: rgb(207, 207, 207);
+}
