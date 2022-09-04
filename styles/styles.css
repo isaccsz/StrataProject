@@ -393,3 +393,53 @@ thead{
     font-size: 15px;
     margin: 35px 0;
 }
+
+#buttons{
+    margin-top: 50px;
+}
+
+.sideBySide{
+    margin: 20px 0;
+}
+
+.grandeVerde{
+    width: 15%;
+    height: 40px;
+    background-color: #49bf9d;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+}
+
+.grandeBranco{
+    width: 15%;
+    height: 40px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    color: black;
+}
+
+.pequenoVerde{
+    width: 12%;
+    height: 30px;
+    font-size: 13px;
+    background-color: #49bf9d;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+}
+.pequenoBranco{
+    width: 12%;
+    height: 30px;
+    font-size: 13px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    color: black;
+}
+
+.bellow{
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
