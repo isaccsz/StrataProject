@@ -499,3 +499,21 @@ select{
 .grid img{
     width: 32%;
 }
+
+#textos h1{
+    margin: 20px 0;
+}
+
+#textos{
+    width: 100%;
+}
+
+#textos img{
+    width: 13%;
+    float: left;
+}
+
+#textos p{
+    margin: 30px 0;
+    font-size: 12px;
+}
