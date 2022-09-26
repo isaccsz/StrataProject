@@ -508,9 +508,14 @@ select{
     width: 100%;
 }
 
-#textos img{
+#imagem_um{
     width: 13%;
     float: left;
+}
+
+#imagem_dois{
+    width: 13%;
+    float: right;
 }
 
 #textos p{
