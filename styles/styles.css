@@ -173,11 +173,12 @@ label{
 }
 
 form{
-    width: 65%;
+    width: 100%;
 }
 
 #textos{
-    width: 30%;
+    width: 10%;
+    margin-left: 4%;
 }
 
 .flexy{
