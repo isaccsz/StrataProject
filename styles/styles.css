@@ -92,6 +92,7 @@ ul p{
 
 .nav-link:hover{
     color: #49bf9d;
+    border-bottom-color: transparent;
     transition: 0.3s all;
 }
 
