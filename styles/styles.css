@@ -225,6 +225,29 @@ form{
     margin-bottom: 20px;
 }
 
+.listSocialMedia{
+    color: #49bf9d;
+    font-size: 25px;
+    letter-spacing: 20px;
+}
+
+.listSocialMedia:hover{
+    color: #ccc;
+    transition: .3s all;
+}
+
+.listaAlternada{
+    list-style-type: none;
+}
+
+.listaAlternada li{
+    border-bottom: 1px solid #ccc;
+}
+
+.listaAlternada li:last-child{
+    border-bottom: none;
+}
+
 .lateral{
     width: 48%;
 }
