@@ -60,6 +60,20 @@ header footer{
     color: #555;
 }
 
+.lista strong{
+    color: #999;
+}
+
+.lista:hover{
+    color: white;
+    transition: .3s all;
+}
+
+.lista strong:hover{
+    color: white;
+    transition: .3s all;
+}
+
 p a{
     text-decoration: none;
     color: #555;
@@ -72,7 +86,11 @@ ul p{
       
 }
 
-header a:hover{
+.nav-link{
+    border-bottom: 1px dotted;
+}
+
+.nav-link:hover{
     color: #49bf9d;
     transition: 0.3s all;
 }
