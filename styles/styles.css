@@ -543,7 +543,7 @@ select{
     margin: 50px 0;
 }
 .full img{
-    width: 97%;
+    width: 99%;
 }
 
 .grid{
@@ -559,6 +559,8 @@ select{
 
 .grid img{
     width: 32%;
+    padding: 2px;
+    border-radius: 10px;
 }
 
 #textos h1{
